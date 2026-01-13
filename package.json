@@ -2,7 +2,7 @@
   "name": "orbitaldisk",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://micaelstaubli.github.io/OrbitalDisk-Landingpage",
+  "homepage": "https://mi718.github.io/OrbitalDisk-Landingpage",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@testing-library/dom": "^10.4.1",
