@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/OrbitalDisk-Landingpage/static/css/main.1c3dba60.css",
+    "main.js": "/OrbitalDisk-Landingpage/static/js/main.e6306f3c.js",
+    "static/js/453.d0ca4493.chunk.js": "/OrbitalDisk-Landingpage/static/js/453.d0ca4493.chunk.js",
+    "static/media/backgroundring.png": "/OrbitalDisk-Landingpage/static/media/backgroundring.906fde0fa19d277ec41e.png",
+    "index.html": "/OrbitalDisk-Landingpage/index.html",
+    "main.1c3dba60.css.map": "/OrbitalDisk-Landingpage/static/css/main.1c3dba60.css.map",
+    "main.e6306f3c.js.map": "/OrbitalDisk-Landingpage/static/js/main.e6306f3c.js.map",
+    "453.d0ca4493.chunk.js.map": "/OrbitalDisk-Landingpage/static/js/453.d0ca4493.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c3dba60.css",
+    "static/js/main.e6306f3c.js"
+  ]
+}
